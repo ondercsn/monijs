@@ -1,17 +1,16 @@
 {
     "name": "monijs",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Money and currency handler",
     "keywords": [
         "money",
         "currency",
-        "handler", 
+        "handler",
         "amount",
         "moni",
         "exchange"
     ],
     "main": "lib/Money.js",
-    "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -24,5 +23,8 @@
     },
     "homepage": "https://github.com/ondercsn/monijs",
     "author": "ondercsn",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "jest": "^29.7.0"
+    }
 }
