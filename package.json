@@ -24,8 +24,5 @@
     },
     "homepage": "https://github.com/ondercsn/monijs",
     "author": "ondercsn",
-    "license": "MIT",
-    "publishConfig": {
-        "@ondercsn:registry": "https://lab.mybcf.co/api/v4/projects/26/packages/npm/"
-    }
+    "license": "MIT"
 }
