@@ -2,13 +2,29 @@
     "name": "monijs",
     "version": "1.0.0",
     "description": "Money and currency handler",
+    "keywords": [
+        "money",
+        "currency",
+        "handler", 
+        "amount",
+        "moni",
+        "exchange"
+    ],
     "main": "Money.js",
     "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ondercsn/monijs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ondercsn/monijs/issues"
+    },
+    "homepage": "https://github.com/ondercsn/monijs",
     "author": "ondercsn",
-    "license": "ISC",
+    "license": "MIT",
     "publishConfig": {
         "@ondercsn:registry": "https://lab.mybcf.co/api/v4/projects/26/packages/npm/"
     }
