@@ -1,11 +1,15 @@
 {
-  "name": "money",
-  "version": "1.0.0",
-  "description": "Money handler for product",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "ondercsn",
-  "license": "ISC"
+    "name": "monijs",
+    "version": "1.0.0",
+    "description": "Money and currency handler",
+    "main": "Money.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "ondercsn",
+    "license": "ISC",
+    "publishConfig": {
+        "@ondercsn:registry": "https://lab.mybcf.co/api/v4/projects/26/packages/npm/"
+    }
 }
